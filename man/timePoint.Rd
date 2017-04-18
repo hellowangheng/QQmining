@@ -39,7 +39,7 @@ heng wang
 root<-"C:/Users/henry wang/Documents/"
 filename<-"records.txt"
 QQdata<-dataprocess (root,filename)
-timepoint(QQdata)
+timePoint(QQdata)
 
 ## The function is currently defined as
 function (x)

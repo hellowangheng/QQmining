@@ -8,12 +8,12 @@ analiyse the topic.
 topic()
 }
 \usage{
-topic(x)
+topic(QQdata)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
-  \item{x}{
-x is the reeturned valua of dataprocess()
+  \item{QQdata}{
+QQdata is the reeturned valua of dataprocess()
 }
 }
 \details{
@@ -26,7 +26,7 @@ using the wordcloud2 to plot a wordcloud to describe  what they usully talk.
 %% ~put references to the literature/web site here ~
 }
 \author{
-heng wang
+Heng Wang
 }
 \note{
 %%  ~~further notes~~

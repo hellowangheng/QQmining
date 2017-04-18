@@ -5,10 +5,10 @@
 # @example
 #
 
-topic<-function(x)
+topic<-function(QQdata)
 {
-  if(requireNamespace("rJava",quietly=TRUE)&requireNamespace("Rwordseg",quietly=TURE)&
-     requireNamespace("dplyr",quietly=TURE)&requireNamespace("wordcloud2",quietly=TRUE))
+  if(requireNamespace("rJava",quietly=TRUE)&requireNamespace("Rwordseg",quietly=TRUE)&
+     requireNamespace("dplyr",quietly=TRUE)&requireNamespace("wordcloud2",quietly=TRUE))
   {
     text<-as.character(QQdata$message)
     text<-enc2utf8(text)
