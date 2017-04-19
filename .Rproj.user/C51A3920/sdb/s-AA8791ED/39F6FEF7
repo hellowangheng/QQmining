@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "\\name{timepoint}\n\\alias{timepoint}\n%- Also NEED an '\\alias' for EACH other topic documented here.\n\\title{\n  analytic time point\n}\n\\description{\n  timepoint(QQdata)\n}\n\\usage{\ntimepoint(QQdata)\n}\n%- maybe also 'usage' for other objects documented here.\n\\arguments{\n  \\item{QQdata}{\nQQdata is the reeturned valua of dataprocess()\n}\n}\n\n\\value{\nusing ggplot2 plot a bar chart about time when people talked.\n}\n\\references{\nspeaker(), topic()\n}\n\\author{\nheng wang\n}\n\n\\examples{\n\n#not run\n#root<-\"C:/Users/henry wang/Documents/\"\n#filename<-\"records.txt\"\n#QQdata<-dataprocess (root,filename)\n#timepoint(QQdata)\n}\n\n",
+    "created" : 1492596945321.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1879237732",
+    "id" : "39F6FEF7",
+    "lastKnownWriteTime" : 1492601383,
+    "last_content_update" : 1492601383888,
+    "path" : "~/QQmining/man/timepoint.Rd",
+    "project_path" : "man/timepoint.Rd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

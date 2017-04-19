@@ -1,0 +1,23 @@
+Package: QQmining
+Type: Package
+Title: data mining QQ
+Version: 0.1.0
+Author: Heng Wang
+Maintainer: wangheng<hello.wangheng@gmail.com>
+Description: qq check record mining.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports:
+  rJava,
+  Rwordseg,
+  dplyr,
+  wordcloud2,
+  ggplot2,
+  MASS
+Collate:
+  'dataprocess.R'
+  'topic.R'
+  'timepoint.R'
+  'speaker.R'
+Depends:R (>= 3.3.2) , rJava, Rwordseg, dplyr, wordcloud2, ggplot2

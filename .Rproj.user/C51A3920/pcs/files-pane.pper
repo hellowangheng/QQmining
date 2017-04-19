@@ -1,0 +1,9 @@
+{
+    "path" : "~/QQmining/man",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

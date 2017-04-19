@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\\name{topic}\n\\alias{topic}\n\\title{\nanaliyse the topic.\n}\n\\description{\ntopic()\n}\n\\usage{\ntopic(QQdata)\n}\n\\arguments{\n  \\item{QQdata}{\n  QQdata is the reeturned valua of dataprocess()\n  }\n}\n\n\\value{\nusing the wordcloud2 to plot a wordcloud to describe  what they usully talk.\n}\n\\author{\nheng wang\n}\n\\examples{\n#not run\n#root<-\"C:/Users/henry wang/Documents/\"\n#filename<-\"records.txt\"\n#QQdata<-dataprocess (root,filename)\n#topic(QQdata)\n}\n",
+    "created" : 1492598737772.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "911953961",
+    "id" : "A737824D",
+    "lastKnownWriteTime" : 1492601383,
+    "last_content_update" : 1492601383958,
+    "path" : "~/QQmining/man/topic.Rd",
+    "project_path" : "man/topic.Rd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

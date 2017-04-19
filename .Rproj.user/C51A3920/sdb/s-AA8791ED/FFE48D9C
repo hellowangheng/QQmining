@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: QQmining\nType: Package\nTitle: data mining QQ\nVersion: 0.1.0\nAuthor: Heng Wang\nMaintainer: wangheng<hello.wangheng@gmail.com>\nDescription: qq check record mining.\nLicense: GPL-2\nEncoding: UTF-8\nLazyData: true\nImports:\n  rJava,\n  Rwordseg,\n  dplyr,\n  wordcloud2,\n  ggplot2,\n  MASS\nCollate:\n  'dataprocess.R'\n  'topic.R'\n  'timepoint.R'\n  'speaker.R'\nDepends:R (>= 3.3.2) , rJava, Rwordseg, dplyr, wordcloud2, ggplot2\n",
+    "created" : 1492594605080.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2904517695",
+    "id" : "FFE48D9C",
+    "lastKnownWriteTime" : 1492596694,
+    "last_content_update" : 1492596694141,
+    "path" : "~/QQmining/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

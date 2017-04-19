@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\\name{speaker}\n\\alias{speaker}\n\\title{\nanalysis the people what speake more.\n}\n\\description{\nspeaker(QQdata)\n}\n\\usage{\nspeaker(QQdata)\n}\n\\arguments{\n  \\item{QQdata}{\n  QQdata is the reeturned valua of dataprocess()\n  }\n}\n\n\\value{\nplot a bar chart to describe  who speak more.\n}\n\\author{\nheng wang\n}\n\n\\seealso{\n topic(), timepoint()\n}\n\\examples{\n#not run\n#root<-\"C:/Users/henry wang/Documents/\"\n#filename<-\"records.txt\"\n#QQdata<-dataprocess (root,filename)\n#speaker(QQdata)\n}\n\n",
+    "created" : 1492594176712.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3060221366",
+    "id" : "DCC5E03A",
+    "lastKnownWriteTime" : 1492601383,
+    "last_content_update" : 1492601383740,
+    "path" : "~/QQmining/man/speaker.Rd",
+    "project_path" : "man/speaker.Rd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "\\name{dataprocess}\n\\alias{dataprocess}\n\\title{return a data.frame}\n\\usage{\ndataprocess (root,filename)\n}\n\\arguments{\n \\item{root}{the path of the file}\n \\item{filename}{the name of QQ chating records}\n}\n\\value{\nreturn a data.frame,the fuction of timepoint(),speaker() and topic() use it.\n}\n\\description{\nreturn the a data.frame\n}\n\\author{\nheng wang\n}\n\\examples{\n#not run\n#root<-\"C:/Users/henry wang/Documents/\"\n#filename<-\"records.txt\"\n#dataprocess (root,filename)\n}\n",
+    "created" : 1492594180532.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1905505564",
+    "id" : "9E7A187F",
+    "lastKnownWriteTime" : 1492601384,
+    "last_content_update" : 1492601384137,
+    "path" : "~/QQmining/man/dataprocess.Rd",
+    "project_path" : "man/dataprocess.Rd",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
