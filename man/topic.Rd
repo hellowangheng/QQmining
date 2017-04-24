@@ -11,7 +11,7 @@ topic(QQdata)
 }
 \arguments{
   \item{QQdata}{
-  QQdata is the reeturned valua of dataprocess()
+  QQdata is the returned valua of dataprocess()
   }
 }
 

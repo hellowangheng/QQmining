@@ -13,7 +13,7 @@ timepoint(QQdata)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{QQdata}{
-QQdata is the reeturned valua of dataprocess()
+QQdata is the returned valua of dataprocess()
 }
 }
 
