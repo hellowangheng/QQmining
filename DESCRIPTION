@@ -18,6 +18,12 @@ Imports:
 Collate:
   'dataprocess.R'
   'topic.R'
+<<<<<<< HEAD
   'timepoint.R'
   'speaker.R'
 Depends:R (>= 3.3.2) , rJava, Rwordseg, dplyr, wordcloud2, ggplot2
+=======
+  'timePoint.R'
+  'speaker.R'
+Depends:R (>= 3.3.3) , rJava, Rwordseg, dplyr, wordcloud2, ggplot2
+>>>>>>> e7a21eaa37f7ed0413cd504a37ba35f8bde456f4

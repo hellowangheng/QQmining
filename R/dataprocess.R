@@ -14,7 +14,13 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 dataprocess <- function(root,filename) {
+<<<<<<< HEAD
   file<-paste(root,filename,sep="")
+=======
+  #root<-"C:/Users/henry wang/Documents/"
+  file<-paste(root,filename,sep="")
+
+>>>>>>> e7a21eaa37f7ed0413cd504a37ba35f8bde456f4
   file.data<-scan(file,what = "",sep="\n",encoding = "UTF-8")
   file.data<-file.data[-1:-5]
   time <- c();
